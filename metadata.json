@@ -1,0 +1,5 @@
+{
+  "name": "Volkreach",
+  "description": "A fully functional, visually stunning clone of the Volkreach website, built with React, TypeScript, and Tailwind CSS. This project showcases a modern, responsive landing page for a developer tool, complete with various sections like hero, features, testimonials, and footer.",
+  "requestFramePermissions": []
+}
